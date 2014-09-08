@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ecbc3c0-3b14-493d-81b7-7bfd8bd4f963" name="Default" comment="" />
+    <ignored path="PHP-Syntax.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PHP-Syntax" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Pr1_PersonalInfo.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pr1_PersonalInfo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="68" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="204">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pr2_SumOfNumbers.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pr2_SumOfNumbers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="7" selection-start="0" selection-end="798" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="527">
+              <folding>
+                <marker date="1408133540681" expanded="true" signature="5:797" placeholder="..." />
+                <marker date="1408133540681" expanded="true" signature="12:52" placeholder="..." />
+                <marker date="1408133540681" expanded="true" signature="59:789" placeholder="..." />
+                <marker date="1408133540681" expanded="true" signature="129:348" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pr3_DumpVariable.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pr3_DumpVariable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pr4_NonRepeatingDigits.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pr4_NonRepeatingDigits.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="17" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0" vertical-offset="302" max-vertical-offset="731">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pr5_LazySundays.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pr5_LazySundays.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="32" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pr6_HtmlTable.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pr6_HtmlTable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="56" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="425">
+              <folding>
+                <marker date="1408305011126" expanded="true" signature="234:522" placeholder="..." />
+                <marker date="1408305011126" expanded="true" signature="356:522" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pr7_FormData.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pr7_FormData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="76" selection-start="529" selection-end="529" vertical-scroll-proportion="0.49635038" vertical-offset="0" max-vertical-offset="548">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Pr1_PersonalInfo.php" />
+        <option value="$PROJECT_DIR$/Pr2_SumNumbers.html" />
+        <option value="$PROJECT_DIR$/Pr3_DumpVariable.php" />
+        <option value="$PROJECT_DIR$/Pr4_NonRepeatingDigits.php" />
+        <option value="$PROJECT_DIR$/Pr5_LazySundays.php" />
+        <option value="$PROJECT_DIR$/Pr6_HTMLTable.html" />
+        <option value="$PROJECT_DIR$/Pr6_HtmlTable.php" />
+        <option value="$PROJECT_DIR$/Pr2_SumOfNumbers.php" />
+        <option value="$PROJECT_DIR$/Pr7_FormData.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Php 5.5" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1357" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Probably bugPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpVoidFunctionResultUsedInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Syntax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager" selected="PHP Script.Pr5_LazySundays.php">
+    <configuration default="false" name="Pr1_PersonalInfo.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Pr1_PersonalInfo.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pr2_SumOfNumbers.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Pr2_SumOfNumbers.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pr3_DumpVariable.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Pr3_DumpVariable.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pr4_NonRepeatingDigits.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Pr4_NonRepeatingDigits.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pr5_LazySundays.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Pr5_LazySundays.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.Pr1_PersonalInfo.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.Pr2_SumOfNumbers.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.Pr3_DumpVariable.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.Pr4_NonRepeatingDigits.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.Pr5_LazySundays.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.Pr5_LazySundays.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.Pr4_NonRepeatingDigits.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.Pr3_DumpVariable.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.Pr2_SumOfNumbers.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.Pr1_PersonalInfo.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ecbc3c0-3b14-493d-81b7-7bfd8bd4f963" name="Default" comment="" />
+      <created>1408128510878</created>
+      <updated>1408128510878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1357" height="728" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24757643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993559" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="PHP-Syntax" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="PHP-Syntax" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value=".idea" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Pr1_PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="68" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr2_SumOfNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="7" selection-start="0" selection-end="798" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="527">
+          <folding>
+            <marker date="1408133540681" expanded="true" signature="5:797" placeholder="..." />
+            <marker date="1408133540681" expanded="true" signature="12:52" placeholder="..." />
+            <marker date="1408133540681" expanded="true" signature="59:789" placeholder="..." />
+            <marker date="1408133540681" expanded="true" signature="129:348" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr3_DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr4_NonRepeatingDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="17" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0" vertical-offset="302" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr5_LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="32" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr6_HtmlTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="56" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="425">
+          <folding>
+            <marker date="1408305011126" expanded="true" signature="234:522" placeholder="..." />
+            <marker date="1408305011126" expanded="true" signature="356:522" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr7_FormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="76" selection-start="529" selection-end="529" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr1_PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="68" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr2_SumOfNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="40" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="527">
+          <folding>
+            <marker date="1408133540681" expanded="true" signature="5:797" placeholder="..." />
+            <marker date="1408133540681" expanded="true" signature="12:52" placeholder="..." />
+            <marker date="1408133540681" expanded="true" signature="59:789" placeholder="..." />
+            <marker date="1408133540681" expanded="true" signature="129:348" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr3_DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr4_NonRepeatingDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="17" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0" vertical-offset="302" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr5_LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="32" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr1_PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="68" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr2_SumOfNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="40" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="527">
+          <folding>
+            <marker date="1408133540681" expanded="true" signature="5:797" placeholder="..." />
+            <marker date="1408133540681" expanded="true" signature="12:52" placeholder="..." />
+            <marker date="1408133540681" expanded="true" signature="59:789" placeholder="..." />
+            <marker date="1408133540681" expanded="true" signature="129:348" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr3_DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="2" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr1_PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="68" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr3_DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr4_NonRepeatingDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="17" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0" vertical-offset="302" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr5_LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="32" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr6_HtmlTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="56" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="425">
+          <folding>
+            <marker date="1408305011126" expanded="true" signature="234:522" placeholder="..." />
+            <marker date="1408305011126" expanded="true" signature="356:522" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr2_SumOfNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="7" selection-start="0" selection-end="798" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="527">
+          <folding>
+            <marker date="1408133540681" expanded="true" signature="5:797" placeholder="..." />
+            <marker date="1408133540681" expanded="true" signature="12:52" placeholder="..." />
+            <marker date="1408133540681" expanded="true" signature="59:789" placeholder="..." />
+            <marker date="1408133540681" expanded="true" signature="129:348" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pr7_FormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="76" selection-start="529" selection-end="529" vertical-scroll-proportion="0.49635038" vertical-offset="0" max-vertical-offset="548">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
